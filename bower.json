@@ -1,10 +1,9 @@
 {
-  "name": "gaia-fonts",
-  "version": "0.2.1",
+  "name": "fxos-font",
   "authors": [
     "Wilson Page <wilsonpage@me.com>"
   ],
-  "main": "style.css",
+  "main": "fxos-font.css",
   "license": "MIT",
   "ignore": [
     "**/.*",
