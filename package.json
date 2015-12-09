@@ -1,11 +1,7 @@
 {
   "name": "fxos-font",
+  "version": "1.0.0",
   "description": "",
   "main": "fxos-font.css",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "version": "1.0.0"
+  "author": "Wilson Page <wilsonpage@me.com>"
 }
